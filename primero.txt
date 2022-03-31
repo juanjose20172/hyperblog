@@ -3,3 +3,4 @@ este es un nuevo archivo
 del curso de github
 y hoy iniciaremos una historia
 ingreso anita al proyecyo
+y ahora ingresa a Juan a colaborar al proyecto "gratis"
