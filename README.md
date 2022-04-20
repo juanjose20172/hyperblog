@@ -1,9 +1,9 @@
 
 
 # Hyperblog
-##Curso de Git y Git Hub realizado en Platzi
+## Curso de Git y Git Hub realizado en Platzi
 >Atrévete a vivir la aventura
-###Algunos codigos
+### Algunos codigos
 - Push
 - Pull
 - git add
@@ -11,7 +11,7 @@
 - git remote
 - git status
 
-###estás completamente bienvenido a viir esta experiencia, deberías tener 
+### estás completamente bienvenido a viir esta experiencia, deberías tener 
                 
 1. Ganas de aprender
 2. Dedicar unas horas al día
