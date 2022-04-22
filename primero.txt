@@ -1,5 +1,7 @@
 este es un nuevo archivo
 Main 1
+Main2
+
 del curso de github
 y hoy iniciaremos una historia
 ingreso anita al proyecyo
