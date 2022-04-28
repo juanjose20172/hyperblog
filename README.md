@@ -10,7 +10,7 @@
 - git commit
 - git remote
 - git status
-
+- creado por Juan Jose
 ### estás completamente bienvenido a viir esta experiencia, deberías tener 
                 
 1. Ganas de aprender
