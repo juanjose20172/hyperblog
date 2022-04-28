@@ -11,6 +11,7 @@
 - git remote
 - git status
 - creado por Juan Jose
+- incluye ejemplos en windows por ahora
 ### estás completamente bienvenido a viir esta experiencia, deberías tener 
                 
 1. Ganas de aprender
